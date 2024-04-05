@@ -1,0 +1,2 @@
+genome hg38
+trackDb hg38_CnR_HeLa_HBO1/trackDb_CnR_HeLa_HBO1.txt

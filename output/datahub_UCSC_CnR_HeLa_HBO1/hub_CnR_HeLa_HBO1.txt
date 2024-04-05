@@ -1,0 +1,6 @@
+hub CnR_HeLa_HBO1
+shortLabel CnR_HeLa_HBO1
+longLabel CnR_HeLa_HBO1
+genomesFile genomes_CnR_HeLa_HBO1.txt
+email christophe.tav@crchudequebec.ulaval.ca
+descriptionUrl

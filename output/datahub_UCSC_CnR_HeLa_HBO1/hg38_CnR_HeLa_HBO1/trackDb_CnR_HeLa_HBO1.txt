@@ -1,0 +1,181 @@
+track HeLa_WT_HBO1_rep1
+bigDataUrl HeLa_WT_HBO1_rep1_mate1_RPKM.bw
+shortLabel HeLa_WT_HBO1_rep1
+longLabel HeLa_WT_HBO1_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 36, 113, 163
+maxHeightPixels 100:75:8
+
+track HeLa_HBO1KO_HBO1_rep1
+bigDataUrl HeLa_HBO1KO_HBO1_rep1_mate1_RPKM.bw
+shortLabel HeLa_HBO1KO_HBO1_rep1
+longLabel HeLa_HBO1KO_HBO1_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 36, 113, 163
+maxHeightPixels 100:75:8
+
+track HeLa_WT_Men1_rep1
+bigDataUrl HeLa_WT_Men1_rep1_mate1_RPKM.bw
+shortLabel HeLa_WT_Men1_rep1
+longLabel HeLa_WT_Men1_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 212, 172, 13
+maxHeightPixels 100:75:8
+
+track HeLa_HBO1KO_Men1_rep1
+bigDataUrl HeLa_HBO1KO_Men1_rep1_mate1_RPKM.bw
+shortLabel HeLa_HBO1KO_Men1_rep1
+longLabel HeLa_HBO1KO_Men1_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 212, 172, 13
+maxHeightPixels 100:75:8
+
+track HeLa_WT_H3K27me3_rep1
+bigDataUrl HeLa_WT_H3K27me3_rep1_mate1_RPKM.bw
+shortLabel HeLa_WT_H3K27me3_rep1
+longLabel HeLa_WT_H3K27me3_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 39, 174, 96
+maxHeightPixels 100:75:8
+
+track HeLa_HBO1KO_H3K27me3_rep1
+bigDataUrl HeLa_HBO1KO_H3K27me3_rep1_mate1_RPKM.bw
+shortLabel HeLa_HBO1KO_H3K27me3_rep1
+longLabel HeLa_HBO1KO_H3K27me3_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 39, 174, 96
+maxHeightPixels 100:75:8
+
+track HeLa_WT_H3K4me3_rep1_mate1
+bigDataUrl HeLa_WT_H3K4me3_rep1_mate1_RPKM.bw
+shortLabel HeLa_WT_H3K4me3_rep1_mate1
+longLabel HeLa_WT_H3K4me3_rep1_mate1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 192, 57, 43
+maxHeightPixels 100:75:8
+
+track HeLa_HBO1KO_H3K4me3_rep1
+bigDataUrl HeLa_HBO1KO_H3K4me3_rep1_mate1_RPKM.bw
+shortLabel HeLa_HBO1KO_H3K4me3_rep1
+longLabel HeLa_HBO1KO_H3K4me3_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 192, 57, 43
+maxHeightPixels 100:75:8
+
+track HeLa_WT_IgG_rep1
+bigDataUrl HeLa_WT_IgG_rep1_mate1_RPKM.bw
+shortLabel HeLa_WT_IgG_rep1
+longLabel HeLa_WT_IgG_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 66, 73, 73
+maxHeightPixels 100:75:8
+
+track HeLa_HBO1KO_IgG_rep1
+bigDataUrl HeLa_HBO1KO_IgG_rep1_mate1_RPKM.bw
+shortLabel HeLa_HBO1KO_IgG_rep1
+longLabel HeLa_HBO1KO_IgG_rep1
+type bigWig
+autoScale on
+alwaysZero on
+visibility full
+color 66, 73, 73
+maxHeightPixels 100:75:8
+
+track HeLa_WT_HBO1_rep1_peaks
+bigDataUrl HeLa_WT_HBO1_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_WT_HBO1_rep1_peaks
+longLabel HeLa_WT_HBO1_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 36, 113, 163
+
+track HeLa_HBO1KO_HBO1_rep1_peaks
+bigDataUrl HeLa_HBO1KO_HBO1_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_HBO1KO_HBO1_rep1_peaks
+longLabel HeLa_HBO1KO_HBO1_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 36, 113, 163
+
+track HeLa_WT_Men1_rep1_peaks
+bigDataUrl HeLa_WT_Men1_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_WT_Men1_rep1_peaks
+longLabel HeLa_WT_Men1_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 212, 172, 13
+
+track HeLa_HBO1KO_Men1_rep1_peaks
+bigDataUrl HeLa_HBO1KO_Men1_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_HBO1KO_Men1_rep1_peaks
+longLabel HeLa_HBO1KO_Men1_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 212, 172, 13
+
+track HeLa_WT_H3K27me3_rep1_peaks
+bigDataUrl HeLa_WT_H3K27me3_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_WT_H3K27me3_rep1_peaks
+longLabel HeLa_WT_H3K27me3_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 39, 174, 96
+
+track HeLa_HBO1KO_H3K27me3_rep1_peaks
+bigDataUrl HeLa_HBO1KO_H3K27me3_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_HBO1KO_H3K27me3_rep1_peaks
+longLabel HeLa_HBO1KO_H3K27me3_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 39, 174, 96
+
+track HeLa_WT_H3K4me3_rep1_peaks
+bigDataUrl HeLa_WT_H3K4me3_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_WT_H3K4me3_rep1_peaks
+longLabel HeLa_WT_H3K4me3_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 192, 57, 43
+
+track HeLa_HBO1KO_H3K4me3_rep1_peaks
+bigDataUrl HeLa_HBO1KO_H3K4me3_rep1_peaks.narrowPeak.stdchr.bb
+shortLabel HeLa_HBO1KO_H3K4me3_rep1_peaks
+longLabel HeLa_HBO1KO_H3K4me3_rep1_peaks
+type bigBed
+autoScale on
+visibility dense
+color 192, 57, 43

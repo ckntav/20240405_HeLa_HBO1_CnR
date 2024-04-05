@@ -1,0 +1,11 @@
+sample_name	cell_line	knock_out	antibody	replicate	fastq_R1_filename	fastq_R2_filename
+HeLa_WT_HBO1_rep1	HeLa	WT	HBO1	rep1	HeLaWTHBO1_S77_L001_R1_001.fastq.gz	HeLaWTHBO1_S77_L001_R2_001.fastq.gz
+HeLa_WT_Men1_rep1	HeLa	WT	Men1	rep1	HeLaWTMen1_S78_L001_R1_001.fastq.gz	HeLaWTMen1_S78_L001_R2_001.fastq.gz
+HeLa_WT_H3K27me3_rep1	HeLa	WT	H3K27me3	rep1	HeLaWTH3K27me3_S82_L001_R1_001.fastq.gz	HeLaWTH3K27me3_S82_L001_R2_001.fastq.gz
+HeLa_WT_H3K4me3_rep1	HeLa	WT	H3K4me3	rep1	HeLaWTH3K4me3_S76_L001_R1_001.fastq.gz	HeLaWTH3K4me3_S76_L001_R2_001.fastq.gz
+HeLa_WT_IgG_rep1	HeLa	WT	IgG	rep1	HeLaWTIgG_S75_L001_R1_001.fastq.gz	HeLaWTIgG_S75_L001_R2_001.fastq.gz
+HeLa_HBO1KO_HBO1_rep1	HeLa	HBO1KO	HBO1	rep1	HeLaHBO1KOHBO1_S85_L001_R1_001.fastq.gz	HeLaHBO1KOHBO1_S85_L001_R2_001.fastq.gz
+HeLa_HBO1KO_Men1_rep1	HeLa	HBO1KO	Men1	rep1	HeLaHBO1KOMen1_S86_L001_R1_001.fastq.gz	HeLaHBO1KOMen1_S86_L001_R2_001.fastq.gz
+HeLa_HBO1KO_H3K27me3_rep1	HeLa	HBO1KO	H3K27me3	rep1	HeLaHBO1KOH3K27me3_S90_L001_R1_001.fastq.gz	HeLaHBO1KOH3K27me3_S90_L001_R2_001.fastq.gz
+HeLa_HBO1KO_H3K4me3_rep1	HeLa	HBO1KO	H3K4me3	rep1	HeLaHBO1KOH3K4me3_S84_L001_R1_001.fastq.gz	HeLaHBO1KOH3K4me3_S84_L001_R2_001.fastq.gz
+HeLa_HBO1KO_IgG_rep1	HeLa	HBO1KO	IgG	rep1	HeLaHBO1KOIgG_S83_L001_R1_001.fastq.gz	HeLaHBO1KOIgG_S83_L001_R2_001.fastq.gz
