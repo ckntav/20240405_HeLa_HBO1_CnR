@@ -1,0 +1,10 @@
+#!/bin/sh
+
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_WT_HBO1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_WT_Men1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_WT_H3K27me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_WT_H3K4me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_HBO1KO_HBO1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_HBO1KO_Men1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_HBO1KO_H3K27me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/10_callpeak/batch_sh/callpeak_HeLa_HBO1KO_H3K4me3_rep1.sh

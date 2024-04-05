@@ -1,0 +1,14 @@
+#!/bin/sh
+
+mkdir -p /home/chris11/projects/def-stbil30/chris11/20240405_HeLa_HBO1_CnR/output/cnr-pipeline_HBO1-GRCh38_PE/tracks_byReplicate
+
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_WT_HBO1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_WT_Men1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_WT_H3K27me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_WT_H3K4me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_WT_IgG_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_HBO1KO_HBO1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_HBO1KO_Men1_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_HBO1KO_H3K27me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_HBO1KO_H3K4me3_rep1.sh
+sbatch scripts/CnR_HBO1_pipeline/09_bamToBigwig/batch_sh/bamToBigwig_HeLa_HBO1KO_IgG_rep1.sh
